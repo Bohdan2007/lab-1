@@ -1,0 +1,3 @@
+Іванова Світлана Богданівна|3333|OCULIST|LONG_BREAK_SHIFT|
+Мешкова Катерина Сергієвна|1111|TRAUMATOLOGIST|STANDARD_SHIFT|Богдан/
+Шпичка Надія Миколаївна|2222|SURGEON|EARLY_SHIFRT|
